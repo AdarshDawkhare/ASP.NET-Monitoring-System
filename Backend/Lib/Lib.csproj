@@ -12,11 +12,11 @@
 
   <ItemGroup>
     <Folder Include="Contracts\Interfaces\" />
-    <Folder Include="Contracts\Models\" />
     <Folder Include="Diagnostics\" />
     <Folder Include="Helpers\" />
     <Folder Include="Constants\" />
-    <Folder Include="Services\" />
+    <Folder Include="Interceptors\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
   <ItemGroup>

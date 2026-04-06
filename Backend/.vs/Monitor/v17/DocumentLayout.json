@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\threadevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\threadevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\services\\threadmonitoring\\threadmonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\services\\threadmonitoring\\threadmonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\threadsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\threadsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\interfaces\\ieventdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\interfaces\\ieventdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\threadeventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\threadeventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\services\\threadmonitoring\\threadflowtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\services\\threadmonitoring\\threadflowtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\executioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\executioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\services\\threadmonitoring\\threadstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\services\\threadmonitoring\\threadstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\threadstateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\threadstateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\models\\threadevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\models\\threadevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\models\\threadstateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\models\\threadstateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\models\\threadsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\models\\threadsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\models\\threadeventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\models\\threadeventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|d:\\aspnetmonitor\\src\\asp.net-monitoring-system\\backend\\lib\\contracts\\models\\executioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C57BB-E410-43C2-8550-51B3C4598447}|Lib\\Lib.csproj|solutionrelative:lib\\contracts\\models\\executioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,65 +54,114 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "IEventDispatcher.cs",
+              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Interfaces\\IEventDispatcher.cs",
+              "RelativeDocumentMoniker": "Lib\\Contracts\\Interfaces\\IEventDispatcher.cs",
+              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Interfaces\\IEventDispatcher.cs",
+              "RelativeToolTip": "Lib\\Contracts\\Interfaces\\IEventDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:25:11.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadMonitoringService.cs",
+              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Services\\ThreadMonitoring\\ThreadMonitoringService.cs",
+              "RelativeDocumentMoniker": "Lib\\Services\\ThreadMonitoring\\ThreadMonitoringService.cs",
+              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Services\\ThreadMonitoring\\ThreadMonitoringService.cs",
+              "RelativeToolTip": "Lib\\Services\\ThreadMonitoring\\ThreadMonitoringService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:27:00.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThreadStateManager.cs",
+              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Services\\ThreadMonitoring\\ThreadStateManager.cs",
+              "RelativeDocumentMoniker": "Lib\\Services\\ThreadMonitoring\\ThreadStateManager.cs",
+              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Services\\ThreadMonitoring\\ThreadStateManager.cs",
+              "RelativeToolTip": "Lib\\Services\\ThreadMonitoring\\ThreadStateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:41:19.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadFlowTracker.cs",
+              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Services\\ThreadMonitoring\\ThreadFlowTracker.cs",
+              "RelativeDocumentMoniker": "Lib\\Services\\ThreadMonitoring\\ThreadFlowTracker.cs",
+              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Services\\ThreadMonitoring\\ThreadFlowTracker.cs",
+              "RelativeToolTip": "Lib\\Services\\ThreadMonitoring\\ThreadFlowTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:24:29.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ThreadStateInfo.cs",
-              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ThreadStateInfo.cs",
-              "RelativeDocumentMoniker": "Lib\\Contracts\\ThreadStateInfo.cs",
-              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ThreadStateInfo.cs",
-              "RelativeToolTip": "Lib\\Contracts\\ThreadStateInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ThreadStateInfo.cs",
+              "RelativeDocumentMoniker": "Lib\\Contracts\\Models\\ThreadStateInfo.cs",
+              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ThreadStateInfo.cs",
+              "RelativeToolTip": "Lib\\Contracts\\Models\\ThreadStateInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T07:06:30.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ExecutionInfo.cs",
-              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ExecutionInfo.cs",
-              "RelativeDocumentMoniker": "Lib\\Contracts\\ExecutionInfo.cs",
-              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ExecutionInfo.cs",
-              "RelativeToolTip": "Lib\\Contracts\\ExecutionInfo.cs",
+              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ExecutionInfo.cs",
+              "RelativeDocumentMoniker": "Lib\\Contracts\\Models\\ExecutionInfo.cs",
+              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ExecutionInfo.cs",
+              "RelativeToolTip": "Lib\\Contracts\\Models\\ExecutionInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T07:05:53.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T07:05:53.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ThreadEventType.cs",
-              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ThreadEventType.cs",
-              "RelativeDocumentMoniker": "Lib\\Contracts\\ThreadEventType.cs",
-              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ThreadEventType.cs",
-              "RelativeToolTip": "Lib\\Contracts\\ThreadEventType.cs",
+              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ThreadEventType.cs",
+              "RelativeDocumentMoniker": "Lib\\Contracts\\Models\\ThreadEventType.cs",
+              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ThreadEventType.cs",
+              "RelativeToolTip": "Lib\\Contracts\\Models\\ThreadEventType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T07:01:43.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T07:01:43.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ThreadSnapshot.cs",
-              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ThreadSnapshot.cs",
-              "RelativeDocumentMoniker": "Lib\\Contracts\\ThreadSnapshot.cs",
-              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ThreadSnapshot.cs*",
-              "RelativeToolTip": "Lib\\Contracts\\ThreadSnapshot.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ThreadSnapshot.cs",
+              "RelativeDocumentMoniker": "Lib\\Contracts\\Models\\ThreadSnapshot.cs",
+              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ThreadSnapshot.cs",
+              "RelativeToolTip": "Lib\\Contracts\\Models\\ThreadSnapshot.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwBUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T06:57:25.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T06:57:25.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ThreadEvent.cs",
-              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ThreadEvent.cs",
-              "RelativeDocumentMoniker": "Lib\\Contracts\\ThreadEvent.cs",
-              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\ThreadEvent.cs",
-              "RelativeToolTip": "Lib\\Contracts\\ThreadEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ThreadEvent.cs",
+              "RelativeDocumentMoniker": "Lib\\Contracts\\Models\\ThreadEvent.cs",
+              "ToolTip": "D:\\ASPNETMonitor\\src\\ASP.NET-Monitoring-System\\Backend\\Lib\\Contracts\\Models\\ThreadEvent.cs",
+              "RelativeToolTip": "Lib\\Contracts\\Models\\ThreadEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T06:49:10.516Z",
               "EditorCaption": ""

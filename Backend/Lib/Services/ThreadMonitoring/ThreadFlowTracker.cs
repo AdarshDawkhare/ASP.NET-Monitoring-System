@@ -9,7 +9,8 @@ using Lib.Contracts.Models;
 
 namespace Lib.Services.ThreadMonitoring
 {
-    //This class is used for data collection
+    //This class is used for data collection ---> Data related to all currently active threads will be stored in this class 
+    //Methods of this class will be called from Middleware(Request change Identification) and Interceptor(MethodName change identification)
     public class ThreadFlowTracker
     {
         private readonly ConcurrentDictionary<int, ThreadSnapshot> _threads = new();

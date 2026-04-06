@@ -13,7 +13,7 @@ namespace Lib.Contracts.Models
 
         public string RequestId { get; set; }
 
-        public string EventType { get; set; } // "START" or "END"
+        public ThreadEventType EventType { get; set; } 
 
         public ExecutionInfo? Execution { get; set; }
 
